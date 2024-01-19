@@ -1,4 +1,7 @@
 # HabitsOnMetallica🤟
+
+Ahmet Doğaç Altın - 30660 - dogac.altin@sabanciuniv.edu
+
 This is my detailed summary of listening habits of Metallica from last year. This GitHub repositary contains a ReadMe file, a report, a power point presentation, and last but not least, a file that includes my personal Spotify Data and Python code to manipulate this Data.
 
 1️⃣ReadMe File:
@@ -15,6 +18,7 @@ This is my detailed summary of listening habits of Metallica from last year. Thi
 4️⃣PowerPoint and video:
   But if you want to have an extended and more interesting presentation, PowerPoint is ready to be used. Besides the information about my data, it gives a lot of interesting knowledge and help you to understand the motivation of the goal and desire of my project. A youtube video is also ready to use, I hgihly recommend it to watch. :)
 
+Ahmet Doğaç Altın - 30660 - dogac.altin@sabanciuniv.edu
 
 
   
