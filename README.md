@@ -1,5 +1,5 @@
 # HabitsOnMetallica🤟
-This is my detailed summary of listening habits of Metallica from last year. This GitHun repositary contains a ReadMe file, a report, a power point presentation, and last but not least, a file that includes my personal Spotify Data and Python code to manipulate this Data.
+This is my detailed summary of listening habits of Metallica from last year. This GitHub repositary contains a ReadMe file, a report, a power point presentation, and last but not least, a file that includes my personal Spotify Data and Python code to manipulate this Data.
 
 1️⃣ReadMe File:
   This file gives information about how this GitHUb repositary will be used. Before you take a look to other files, it may be better to check this information.
