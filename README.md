@@ -12,8 +12,8 @@ This is my detailed summary of listening habits of Metallica from last year. Thi
 3️⃣Report:
   Report is an informatic text file with it's numerical information and shared technical knowledges. It gives information about data and data's result as well. 
 
-4️⃣PowerPoint:
-  But if you want to have an extended and more interesting presentation, PowerPoint is ready to be used. Besides the information about my data, it gives a lot of interesting knowledge and help you to understand the motivation of the goal and desire of my project.
+4️⃣PowerPoint and video:
+  But if you want to have an extended and more interesting presentation, PowerPoint is ready to be used. Besides the information about my data, it gives a lot of interesting knowledge and help you to understand the motivation of the goal and desire of my project. A youtube video is also ready to use, I hgihly recommend it to watch. :)
 
 
 
